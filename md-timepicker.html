@@ -227,7 +227,7 @@ Element that let the user input a time easily.
       },
 
       currentSelectorChanged: function() {
-        if(this.currentSelector != this.selector.HOUR) {
+        if(this.currentSelector == this.selector.MINUTE) {
           this.keys[0].enabled = true;
         }
         if(this.currentSelector == this.selector.HOUR && this.timeFormat == '12h') {
