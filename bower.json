@@ -17,10 +17,10 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#0.5.2",
+    "polymer": "Polymer/polymer#0.5.3",
     "moment": "~2.8.3",
-    "paper-ripple": "Polymer/paper-ripple#0.5.2",
-    "paper-button": "Polymer/paper-button#0.5.2",
-    "paper-shadow": "Polymer/paper-shadow#0.5.2"
+    "paper-ripple": "Polymer/paper-ripple#0.5.3",
+    "paper-button": "Polymer/paper-button#0.5.3",
+    "paper-shadow": "Polymer/paper-shadow#0.5.3"
   }
 }
